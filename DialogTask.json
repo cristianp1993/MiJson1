@@ -2,7 +2,7 @@
   "c2array": true,
   "size": [6, 1, 2],
   "data": [
-    [["¿Crees que pelear es valentia... o miedo a rendirte?", "Boss"]],
+    [["Crees que pelear es valentia... o miedo a rendirte?", "Boss"]],
     [["Tal vez... pero seguir de pie ya es una forma de respuesta.", "Player"]],
     [["Yo fui como tu... hasta que comprendi que la esperanza es una jaula.", "Boss"]],
     [["Prefiero vivir en esa jaula... que ser libre y vacio por dentro.", "Player"]],
