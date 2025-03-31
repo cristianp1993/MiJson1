@@ -1,0 +1,12 @@
+{
+  "c2array": true,
+  "size": [6, 1, 2],
+  "data": [
+    [["¿Crees que pelear es valentía... o miedo a rendirte?", "Boss"]],
+    [["Tal vez... pero seguir de pie ya es una forma de respuesta.", "Player"]],
+    [["Yo fui como tú... hasta que comprendí que la esperanza es una jaula.", "Boss"]],
+    [["Prefiero vivir en esa jaula... que ser libre y vacío por dentro.", "Player"]],
+    [["Entonces ven. Muéstrame qué hace tan valiosa tu lucha.", "Boss"]],
+    [["No es por mí que peleo... es por todo lo que aún puede sanar.", "Player"]]
+  ]
+}
